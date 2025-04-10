@@ -1,0 +1,1034 @@
+
+Skip to Content
+U.S. flag
+
+An official website of the United States government
+
+Department of Labor Logo United States Department of Labor
+U.S. Bureau of Labor Statistics
+Follow Us Follow Us on X, formerly referred to as Twitter | Release Calendar | Blog
+
+    Home
+    Subjects
+    Data Tools
+    Publications
+    Economic Releases
+    Classroom
+    Beta
+
+    Bureau of Labor Statistics
+    Current Population Survey
+    Home
+
+Labor Force Statistics from the Current Population Survey
+Search Labor Force Statistics from the Current Population Survey
+
+    CPS Home
+    CPS Publications
+    CPS Data
+    CPS Methods
+    About CPS
+    Contact CPS
+
+HOUSEHOLD DATA
+ANNUAL AVERAGES
+18. Employed persons by detailed industry, sex, race, and Hispanic or Latino ethnicity
+[Numbers in thousands]
+Industry 	2011
+Total
+employed 	Percent of total employed
+Women 	Black or
+African
+American 	Asian 	Hispanic
+or Latino
+
+Total, 16 years and over
+	139,869 	46.9 	10.8 	4.9 	14.5
+
+Agriculture, forestry, fishing, and hunting
+	2,254 	24.7 	2.3 	1.0 	23.2
+
+Crop production
+	966 	25.4 	1.9 	1.4 	31.5
+
+Animal production
+	907 	24.2 	1.5 	0.4 	15.4
+
+Forestry, except logging
+	42 	- 	- 	- 	-
+
+Logging
+	97 	8.5 	12.1 	0.0 	1.9
+
+Fishing, hunting, and trapping
+	51 	12.9 	5.8 	4.3 	7.8
+
+Support activities for agriculture and forestry
+	191 	33.8 	2.8 	0.8 	36.2
+
+Mining, quarrying, and oil and gas extraction
+	817 	12.1 	4.5 	1.6 	16.0
+
+Oil and gas extraction
+	64 	19.6 	8.4 	5.0 	7.2
+
+Coal mining
+	110 	4.8 	0.2 	0.0 	4.5
+
+Metal ore mining
+	40 	- 	- 	- 	-
+
+Nonmetallic mineral mining and quarrying
+	66 	7.1 	1.4 	0.0 	10.0
+
+Not specified type of mining
+	16 	- 	- 	- 	-
+
+Support activities for mining
+	521 	13.9 	5.8 	1.9 	20.0
+
+Construction
+	9,039 	9.2 	5.5 	1.5 	24.4
+
+Manufacturing
+	14,336 	28.7 	8.7 	6.0 	15.0
+
+Durable goods manufacturing
+	9,007 	24.8 	7.2 	6.5 	12.7
+
+Nonmetallic mineral products manufacturing
+	392 	18.4 	4.0 	2.5 	17.5
+
+Pottery, ceramics, and plumbing fixture manufacturing
+	29 	- 	- 	- 	-
+
+Structural clay product manufacturing
+	27 	- 	- 	- 	-
+
+Glass and glass product manufacturing
+	140 	21.6 	3.5 	3.9 	17.0
+
+Cement, concrete, lime, and gypsum product manufacturing
+	143 	8.8 	4.6 	0.1 	18.4
+
+Miscellaneous nonmetallic mineral product manufacturing
+	52 	21.1 	1.4 	1.1 	21.7
+
+Primary metals and fabricated metal products manufacturing
+	1,658 	15.2 	5.9 	3.0 	15.7
+
+Iron and steel mills and steel product manufacturing
+	295 	8.4 	11.5 	1.4 	15.2
+
+Aluminum production and processing
+	65 	21.2 	12.6 	0.5 	18.4
+
+Nonferrous metal, except aluminum, production and processing
+	63 	14.9 	3.8 	2.5 	15.2
+
+Foundries
+	87 	12.7 	4.9 	0.5 	17.1
+
+Metal forgings and stampings
+	46 	- 	- 	- 	-
+
+Cutlery and hand tool manufacturing
+	44 	- 	- 	- 	-
+
+Structural metals, and boiler, tank, and shipping container manufacturing
+	345 	15.3 	4.4 	2.8 	18.5
+
+Machine shops; turned product; screw, nut, and bolt manufacturing
+	307 	10.2 	1.6 	3.1 	12.9
+
+Coating, engraving, heat treating and allied activities
+	81 	16.2 	9.1 	6.6 	20.0
+
+Ordnance
+	41 	- 	- 	- 	-
+
+Miscellaneous fabricated metal products manufacturing
+	258 	23.5 	4.2 	4.6 	13.1
+
+Not specified metal industries
+	26 	- 	- 	- 	-
+
+Machinery manufacturing
+	1,126 	21.5 	7.8 	3.8 	8.8
+
+Agricultural implement manufacturing
+	104 	18.1 	7.0 	1.6 	7.0
+
+Construction, and mining and oil and gas field machinery manufacturing
+	147 	18.2 	8.4 	3.2 	9.7
+
+Commercial and service industry machinery manufacturing
+	85 	28.3 	10.1 	8.5 	7.4
+
+Metalworking machinery manufacturing
+	137 	14.4 	6.1 	1.9 	2.1
+
+Engines, turbines, and power transmission equipment manufacturing
+	61 	15.6 	5.7 	0.0 	10.8
+
+Machinery manufacturing, n.e.c.
+	584 	23.9 	8.1 	4.6 	10.2
+
+Not specified machinery manufacturing
+	7 	- 	- 	- 	-
+
+Computers and electronic products manufacturing
+	1,267 	33.4 	5.0 	17.3 	9.1
+
+Computer and peripheral equipment manufacturing
+	274 	31.2 	6.5 	16.2 	6.9
+
+Communications, and audio and video equipment manufacturing
+	128 	31.8 	7.6 	22.9 	8.2
+
+Navigational, measuring, electromedical, and control instruments manufacturing
+	214 	35.4 	6.0 	5.6 	9.8
+
+Electronic component and product manufacturing, n.e.c.
+	650 	34.1 	3.6 	20.6 	9.9
+
+Electrical equipment and appliances manufacturing
+	366 	29.6 	9.4 	4.8 	11.6
+
+Household appliance manufacturing
+	70 	40.1 	16.1 	6.3 	6.7
+
+Electrical lighting and electrical equipment manufacturing, and other electrical component manufacturing, n.e.c.
+	296 	27.1 	7.8 	4.4 	12.8
+
+Transportation equipment manufacturing
+	2,022 	23.2 	9.8 	6.4 	9.5
+
+Motor vehicles and motor vehicle equipment manufacturing
+	994 	25.9 	11.5 	5.6 	8.2
+
+Aircraft and parts manufacturing
+	390 	20.1 	6.5 	8.1 	11.0
+
+Aerospace product and parts manufacturing
+	438 	22.6 	6.7 	7.9 	11.5
+
+Railroad rolling stock manufacturing
+	19 	- 	- 	- 	-
+
+Ship and boat building
+	147 	16.7 	18.2 	3.2 	8.0
+
+Other transportation equipment manufacturing
+	33 	- 	- 	- 	-
+
+Wood products manufacturing
+	375 	14.1 	8.0 	1.7 	16.0
+
+Sawmills and wood preservation
+	135 	11.6 	13.8 	0.4 	12.5
+
+Veneer, plywood, and engineered wood products
+	20 	- 	- 	- 	-
+
+Prefabricated wood buildings and mobile homes
+	22 	- 	- 	- 	-
+
+Miscellaneous wood products
+	198 	15.6 	5.3 	2.6 	19.9
+
+Furniture and fixtures manufacturing
+	474 	24.2 	5.8 	2.7 	18.2
+
+Miscellaneous manufacturing
+	1,328 	37.4 	7.3 	7.5 	16.3
+
+Medical equipment and supplies manufacturing
+	573 	42.4 	7.3 	10.6 	13.7
+
+Sporting and athletic goods, and doll, toy and game manufacturing
+	110 	38.9 	4.4 	5.0 	15.8
+
+Miscellaneous manufacturing, n.e.c.
+	479 	33.0 	6.8 	5.0 	16.7
+
+Not specified manufacturing industries
+	167 	31.7 	10.7 	5.4 	24.1
+
+Nondurable goods manufacturing
+	5,329 	35.2 	11.1 	5.2 	18.9
+
+Food manufacturing
+	1,685 	36.9 	13.5 	6.0 	27.4
+
+Animal food, grain, and oilseed milling
+	161 	28.8 	10.1 	2.1 	14.5
+
+Sugar and confectionery products
+	82 	30.8 	7.8 	3.6 	24.3
+
+Fruit and vegetable preserving and specialty food manufacturing
+	158 	42.3 	11.5 	4.4 	31.6
+
+Dairy product manufacturing
+	165 	29.7 	5.6 	3.1 	17.9
+
+Animal slaughtering and processing
+	507 	32.5 	19.7 	8.6 	35.2
+
+Retail bakeries
+	191 	57.8 	13.7 	9.6 	26.2
+
+Bakeries, except retail
+	194 	33.9 	9.6 	2.4 	28.3
+
+Seafood and other miscellaneous foods, n.e.c.
+	188 	40.8 	16.2 	7.3 	23.2
+
+Not specified food industries
+	38 	- 	- 	- 	-
+
+Beverage and tobacco products manufacturing
+	260 	26.0 	13.8 	3.5 	12.4
+
+Beverage manufacturing
+	243 	25.6 	13.1 	3.7 	12.2
+
+Tobacco manufacturing
+	18 	- 	- 	- 	-
+
+Textiles, apparel, and leather manufacturing
+	601 	53.4 	11.0 	5.9 	28.4
+
+Fiber, yarn, and thread mills
+	10 	- 	- 	- 	-
+
+Fabric mills, except knitting mills
+	108 	45.4 	15.3 	1.9 	22.3
+
+Textile and fabric finishing and coating mills
+	21 	- 	- 	- 	-
+
+Carpet and rug mills
+	52 	42.6 	13.3 	0.0 	32.6
+
+Textile product mills, except carpet and rug
+	82 	58.7 	3.8 	2.9 	25.5
+
+Knitting fabric mills, and apparel knitting mills
+	32 	- 	- 	- 	-
+
+Cut and sew apparel manufacturing
+	222 	59.3 	10.8 	12.4 	38.0
+
+Apparel accessories and other apparel manufacturing
+	7 	- 	- 	- 	-
+
+Footwear manufacturing
+	42 	- 	- 	- 	-
+
+Leather tanning and finishing and other allied products manufacturing
+	25 	- 	- 	- 	-
+
+Paper manufacturing and printing
+	872 	27.4 	9.1 	2.4 	10.7
+
+Pulp, paper, and paperboard mills
+	173 	18.5 	13.6 	2.3 	7.7
+
+Paperboard containers and boxes
+	90 	16.1 	15.2 	1.7 	12.1
+
+Miscellaneous paper and pulp products
+	84 	30.9 	4.8 	3.7 	7.6
+
+Printing and related support activities
+	524 	31.8 	7.3 	2.3 	11.9
+
+Petroleum and coal products manufacturing
+	187 	19.1 	9.5 	4.6 	14.8
+
+Petroleum refining
+	167 	20.4 	9.4 	3.9 	16.3
+
+Miscellaneous petroleum and coal products
+	20 	- 	- 	- 	-
+
+Chemicals manufacturing
+	1,267 	35.4 	9.6 	6.6 	12.1
+
+Resin, synthetic rubber and fibers, and filaments manufacturing
+	189 	27.1 	8.4 	2.4 	18.7
+
+Agricultural chemical manufacturing
+	30 	- 	- 	- 	-
+
+Pharmaceutical and medicine manufacturing
+	458 	49.0 	11.9 	10.3 	10.4
+
+Paint, coating, and adhesive manufacturing
+	65 	23.2 	8.1 	2.2 	11.9
+
+Soap, cleaning compound, and cosmetics manufacturing
+	132 	49.1 	8.2 	8.9 	18.4
+
+Industrial and miscellaneous chemicals
+	391 	21.7 	8.3 	4.7 	9.0
+
+Plastics and rubber products manufacturing
+	457 	31.6 	9.7 	3.7 	15.8
+
+Plastics product manufacturing
+	315 	32.7 	9.0 	4.8 	19.3
+
+Tire manufacturing
+	65 	16.7 	15.3 	1.2 	6.9
+
+Rubber product, except tire, manufacturing
+	77 	39.5 	7.6 	1.7 	8.7
+
+Wholesale and retail trade
+	19,726 	44.7 	10.2 	4.5 	14.8
+
+Wholesale trade
+	3,798 	28.5 	7.5 	4.6 	15.6
+
+Motor vehicles, parts and supplies, merchant wholesalers
+	193 	24.1 	5.9 	3.8 	17.0
+
+Furniture and home furnishing, merchant wholesalers
+	70 	30.3 	5.0 	8.2 	15.0
+
+Lumber and other construction materials, merchant wholesalers
+	146 	19.8 	6.0 	2.1 	16.5
+
+Professional and commercial equipment and supplies, merchant wholesalers
+	384 	34.2 	5.7 	4.8 	9.8
+
+Metals and minerals, except petroleum, merchant wholesalers
+	47 	- 	- 	- 	-
+
+Electrical and electronic goods, merchant wholesalers
+	194 	24.1 	5.3 	5.6 	15.2
+
+Hardware, plumbing and heating equipment, and supplies, merchant wholesalers
+	138 	25.7 	4.2 	1.6 	5.5
+
+Machinery, equipment, and supplies, merchant wholesalers
+	369 	26.1 	4.5 	1.8 	8.1
+
+Recyclable material, merchant wholesalers
+	117 	12.5 	10.1 	1.7 	21.2
+
+Miscellaneous durable goods, merchant wholesalers
+	103 	37.4 	3.2 	5.4 	18.0
+
+Paper and paper products, merchant wholesalers
+	67 	33.2 	8.2 	2.9 	10.7
+
+Drugs, sundries, and chemical and allied products, merchant wholesalers
+	239 	44.2 	8.5 	6.7 	10.7
+
+Apparel, fabrics, and notions, merchant wholesalers
+	108 	52.7 	4.7 	20.8 	19.8
+
+Groceries and related products, merchant wholesalers
+	843 	24.9 	11.0 	3.8 	24.0
+
+Farm product raw materials, merchant wholesalers
+	63 	26.9 	4.1 	0.0 	6.6
+
+Petroleum and petroleum products, merchant wholesalers
+	167 	25.9 	10.3 	3.5 	10.9
+
+Alcoholic beverages, merchant wholesalers
+	135 	13.9 	8.8 	1.5 	11.1
+
+Farm supplies, merchant wholesalers
+	64 	23.2 	5.3 	0.0 	12.3
+
+Miscellaneous nondurable goods, merchant wholesalers
+	215 	36.9 	8.2 	4.9 	23.3
+
+Wholesale electronic markets, agents and brokers
+	88 	33.8 	6.7 	16.0 	14.1
+
+Not specified wholesale trade
+	47 	- 	- 	- 	-
+
+Retail trade
+	15,927 	48.6 	10.8 	4.5 	14.6
+
+Automobile dealers
+	1,194 	18.2 	7.6 	1.8 	12.8
+
+Other motor vehicle dealers
+	132 	23.9 	1.9 	0.8 	4.4
+
+Auto parts, accessories, and tire stores
+	548 	16.9 	7.6 	1.9 	18.1
+
+Furniture and home furnishings stores
+	518 	41.0 	8.5 	2.0 	17.5
+
+Household appliance stores
+	62 	28.4 	5.7 	3.5 	12.3
+
+Radio, TV, and computer stores
+	536 	28.3 	10.8 	8.0 	15.5
+
+Building material and supplies dealers
+	855 	28.9 	7.9 	1.3 	12.1
+
+Hardware stores
+	252 	29.2 	9.9 	1.0 	6.6
+
+Lawn and garden equipment and supplies stores
+	261 	29.8 	0.5 	0.6 	8.0
+
+Grocery stores
+	2,805 	50.2 	10.7 	5.3 	17.1
+
+Specialty food stores
+	271 	46.2 	8.0 	6.9 	20.0
+
+Beer, wine, and liquor stores
+	129 	35.6 	12.7 	5.4 	10.3
+
+Pharmacies and drug stores
+	826 	65.0 	12.9 	6.5 	10.5
+
+Health and personal care, except drug, stores
+	318 	64.1 	12.1 	6.2 	10.4
+
+Gasoline stations
+	454 	50.5 	10.1 	9.9 	8.0
+
+Clothing stores
+	1,012 	75.4 	15.3 	6.4 	18.2
+
+Shoe stores
+	160 	58.9 	17.2 	4.0 	24.0
+
+Jewelry, luggage, and leather goods stores
+	212 	66.2 	4.1 	9.9 	13.4
+
+Sporting goods, camera, and hobby and toy stores
+	453 	40.1 	5.9 	4.5 	11.6
+
+Sewing, needlework, and piece goods stores
+	66 	72.5 	4.0 	5.9 	11.9
+
+Music stores
+	84 	26.3 	9.5 	2.0 	17.3
+
+Book stores and news dealers
+	150 	60.9 	5.0 	4.1 	7.8
+
+Department stores and discount stores
+	2,218 	61.0 	16.3 	3.8 	16.2
+
+Miscellaneous general merchandise stores
+	491 	60.2 	14.6 	5.0 	18.5
+
+Retail florists
+	80 	76.2 	4.7 	2.6 	16.3
+
+Office supplies and stationery stores
+	145 	40.7 	11.6 	7.4 	9.5
+
+Used merchandise stores
+	223 	62.1 	9.8 	2.7 	12.1
+
+Gift, novelty, and souvenir shops
+	159 	76.3 	5.0 	7.2 	7.2
+
+Miscellaneous retail stores
+	485 	54.6 	7.2 	2.8 	14.9
+
+Electronic shopping
+	151 	44.8 	10.8 	12.9 	11.5
+
+Electronic auctions
+	20 	- 	- 	- 	-
+
+Mail order houses
+	62 	68.2 	9.9 	2.0 	6.4
+
+Vending machine operators
+	44 	- 	- 	- 	-
+
+Fuel dealers
+	80 	27.6 	4.8 	0.3 	3.8
+
+Other direct selling establishments
+	202 	69.4 	10.2 	2.9 	19.0
+
+Not specified retail trade
+	269 	53.0 	17.9 	6.6 	15.5
+
+Transportation and utilities
+	7,200 	22.6 	15.6 	3.9 	15.1
+
+Transportation and warehousing
+	5,957 	22.6 	17.0 	4.3 	16.0
+
+Air transportation
+	509 	35.3 	12.8 	4.7 	12.9
+
+Rail transportation
+	246 	10.5 	12.6 	2.5 	7.4
+
+Water transportation
+	67 	18.8 	8.7 	6.7 	8.6
+
+Truck transportation
+	1,739 	11.8 	12.6 	1.6 	16.4
+
+Bus service and urban transit
+	505 	36.0 	30.3 	2.7 	17.2
+
+Taxi and limousine service
+	234 	11.0 	30.3 	20.2 	16.1
+
+Pipeline transportation
+	57 	18.8 	4.3 	0.6 	10.7
+
+Scenic and sightseeing transportation
+	34 	- 	- 	- 	-
+
+Services incidental to transportation
+	801 	23.9 	15.9 	5.4 	21.8
+
+Postal Service
+	711 	39.7 	18.1 	7.2 	10.8
+
+Couriers and messengers
+	693 	20.0 	20.0 	3.0 	13.6
+
+Warehousing and storage
+	361 	23.5 	19.5 	3.8 	27.9
+
+Utilities
+	1,243 	22.2 	9.0 	2.1 	10.7
+
+Electric power generation, transmission, and distribution
+	659 	21.5 	8.4 	1.8 	9.7
+
+Natural gas distribution
+	117 	27.1 	9.7 	0.4 	9.9
+
+Electric and gas, and other combinations
+	84 	32.0 	8.9 	5.7 	8.2
+
+Water, steam, air-conditioning, and irrigation systems
+	245 	21.7 	8.6 	1.9 	15.2
+
+Sewage treatment facilities
+	109 	11.8 	11.5 	2.5 	8.3
+
+Not specified utilities
+	29 	- 	- 	- 	-
+
+Information
+	3,150 	40.2 	10.8 	5.6 	9.5
+
+Newspaper publishers
+	281 	41.0 	7.8 	2.7 	7.6
+
+Periodical, book, and directory publishers
+	263 	54.8 	6.5 	4.3 	5.7
+
+Software publishers
+	63 	26.8 	0.9 	16.6 	3.0
+
+Motion pictures and video industries
+	386 	35.6 	6.9 	6.1 	11.6
+
+Sound recording industries
+	40 	- 	- 	- 	-
+
+Radio and television broadcasting and cable subscription programming
+	596 	33.5 	12.3 	3.0 	13.2
+
+Internet publishing and broadcasting and web search portals
+	63 	35.8 	3.0 	15.0 	7.1
+
+Wired telecommunications carriers
+	564 	32.8 	14.6 	5.6 	10.9
+
+Other telecommunications services
+	541 	35.5 	13.0 	7.6 	9.5
+
+Data processing, hosting, and related services
+	101 	47.2 	13.7 	9.0 	7.9
+
+Libraries and archives
+	217 	81.2 	9.4 	4.7 	5.1
+
+Other information services
+	34 	- 	- 	- 	-
+
+Financial activities
+	9,386 	54.7 	9.4 	5.5 	10.6
+
+Finance and insurance
+	6,613 	57.6 	9.3 	6.2 	9.7
+
+Banking and related activities
+	2,062 	63.3 	9.7 	7.3 	12.7
+
+Savings institutions, including credit unions
+	263 	72.3 	9.5 	6.0 	11.0
+
+Non-depository credit and related activities
+	747 	55.5 	10.2 	6.3 	11.7
+
+Securities, commodities, funds, trusts, and other financial investments
+	1,127 	38.7 	5.7 	8.1 	6.1
+
+Insurance carriers and related activities
+	2,414 	60.7 	10.2 	4.3 	8.1
+
+Real estate and rental and leasing
+	2,773 	47.6 	9.6 	4.0 	12.8
+
+Real estate
+	2,384 	51.0 	9.2 	3.7 	12.7
+
+Rental and leasing services
+	389 	27.1 	12.0 	5.6 	13.5
+
+Automotive equipment rental and leasing
+	176 	26.5 	17.7 	8.0 	11.4
+
+Video tape and disk rental
+	23 	- 	- 	- 	-
+
+Other consumer goods rental
+	92 	29.6 	12.9 	3.2 	23.0
+
+Commercial, industrial, and other intangible assets rental and leasing
+	97 	19.5 	3.5 	3.8 	7.5
+
+Professional and business services
+	15,819 	41.0 	8.7 	6.1 	14.7
+
+Professional and technical services
+	9,461 	42.5 	5.9 	8.3 	6.9
+
+Legal services
+	1,665 	54.4 	6.7 	3.9 	6.6
+
+Accounting, tax preparation, bookkeeping, and payroll services
+	1,012 	62.6 	7.4 	6.1 	8.6
+
+Architectural, engineering, and related services
+	1,496 	23.0 	5.2 	4.7 	6.6
+
+Specialized design services
+	379 	53.2 	3.4 	4.2 	9.6
+
+Computer systems design and related services
+	1,935 	25.0 	5.6 	19.4 	5.8
+
+Management, scientific, and technical consulting services
+	1,309 	41.1 	5.9 	7.5 	5.6
+
+Scientific research and development services
+	541 	45.4 	6.0 	10.5 	8.0
+
+Advertising and related services
+	518 	51.8 	5.9 	3.7 	5.3
+
+Veterinary services
+	270 	79.5 	3.0 	2.5 	8.8
+
+Other professional, scientific, and technical services
+	335 	56.0 	6.8 	5.5 	11.7
+
+Management, administrative, and waste services
+	6,358 	38.6 	12.8 	2.9 	26.3
+
+Management of companies and enterprises
+	195 	47.1 	7.6 	3.9 	10.7
+
+Employment services
+	895 	51.6 	20.5 	3.7 	21.1
+
+Business support services
+	830 	62.9 	14.5 	3.1 	12.1
+
+Travel arrangements and reservation services
+	262 	57.6 	10.1 	7.8 	10.7
+
+Investigation and security services
+	800 	22.0 	22.6 	4.1 	15.3
+
+Services to buildings and dwellings
+	1,373 	52.4 	11.2 	2.1 	37.2
+
+Landscaping services
+	1,258 	9.7 	5.1 	1.2 	43.7
+
+Other administrative and other support services
+	275 	44.9 	10.0 	4.6 	16.8
+
+Waste management and remediation services
+	469 	18.8 	9.7 	1.4 	21.7
+
+Education and health services
+	31,867 	74.4 	13.8 	4.8 	10.5
+
+Educational services
+	12,965 	68.4 	10.7 	3.7 	9.6
+
+Elementary and secondary schools
+	8,524 	75.5 	11.0 	2.1 	10.8
+
+Colleges and universities, including junior colleges
+	3,607 	53.5 	10.7 	7.2 	7.2
+
+Business, technical, and trade schools and training
+	123 	53.3 	13.4 	6.5 	9.0
+
+Other schools and instruction, and educational support services
+	711 	62.5 	5.9 	5.2 	6.9
+
+Health care and social assistance
+	18,902 	78.5 	16.0 	5.5 	11.1
+
+Hospitals
+	6,315 	75.8 	15.3 	7.2 	8.7
+
+Health services, except hospitals
+	9,367 	78.1 	15.9 	5.1 	11.2
+
+Offices of physicians
+	1,512 	77.4 	7.3 	5.8 	11.4
+
+Offices of dentists
+	866 	81.2 	3.9 	5.9 	12.0
+
+Offices of chiropractors
+	129 	61.3 	1.9 	4.5 	9.9
+
+Offices of optometrists
+	123 	77.4 	2.2 	3.2 	11.9
+
+Offices of other health practitioners
+	279 	76.0 	4.9 	5.8 	9.1
+
+Outpatient care centers
+	1,214 	78.3 	12.7 	5.0 	11.5
+
+Home health care services
+	968 	88.6 	25.5 	4.3 	16.1
+
+Other health care services
+	1,738 	70.6 	15.2 	6.9 	10.6
+
+Nursing care facilities
+	1,778 	83.8 	26.2 	4.1 	9.1
+
+Residential care facilities, without nursing
+	760 	69.9 	25.3 	2.1 	10.4
+
+Social assistance
+	3,221 	85.0 	17.7 	3.5 	15.7
+
+Individual and family services
+	1,481 	79.1 	17.6 	4.3 	16.0
+
+Community food and housing, and emergency services
+	99 	67.6 	21.1 	4.4 	15.7
+
+Vocational rehabilitation services
+	156 	55.0 	17.3 	2.2 	6.9
+
+Child day care services
+	1,485 	95.2 	17.5 	2.7 	16.3
+
+Leisure and hospitality
+	12,697 	50.4 	11.2 	6.4 	19.6
+
+Arts, entertainment, and recreation
+	2,922 	45.3 	8.6 	5.1 	11.1
+
+Independent artists, performing arts, spectator sports, and related industries
+	798 	40.3 	9.4 	2.8 	8.6
+
+Museums, art galleries, historical sites, and similar institutions
+	371 	47.3 	14.0 	4.0 	10.2
+
+Bowling centers
+	51 	41.9 	2.5 	1.1 	9.6
+
+Other amusement, gambling, and recreation industries
+	1,702 	47.3 	7.3 	6.5 	12.6
+
+Accommodation and food services
+	9,775 	51.9 	12.0 	6.8 	22.1
+
+Accommodation
+	1,407 	53.5 	14.4 	8.6 	23.6
+
+Traveler accommodation
+	1,301 	53.7 	15.1 	9.0 	25.0
+
+Recreational vehicle parks and camps, and rooming and boarding houses
+	106 	52.2 	5.1 	3.8 	5.6
+
+Food services and drinking places
+	8,368 	51.6 	11.6 	6.5 	21.9
+
+Restaurants and other food services
+	8,148 	51.5 	11.8 	6.6 	22.1
+
+Drinking places, alcoholic beverages
+	220 	56.2 	5.9 	2.2 	12.8
+
+Other services
+	6,724 	52.0 	9.1 	6.6 	16.6
+
+Other services, except private households
+	6,002 	47.5 	9.2 	6.9 	14.3
+
+Repair and maintenance
+	1,984 	10.7 	6.4 	4.0 	20.3
+
+Automotive repair and maintenance
+	1,132 	8.4 	6.1 	3.2 	20.4
+
+Car washes
+	165 	11.8 	10.3 	4.8 	38.4
+
+Electronic and precision equipment repair and maintenance
+	182 	11.0 	11.3 	7.7 	15.4
+
+Commercial and industrial machinery and equipment repair and maintenance
+	308 	8.5 	3.7 	2.6 	15.7
+
+Personal and household goods repair and maintenance
+	192 	26.7 	5.0 	6.8 	16.8
+
+Footwear and leather goods repair
+	4 	- 	- 	- 	-
+
+Personal and laundry services
+	2,218 	74.6 	11.1 	12.7 	14.4
+
+Barber shops
+	97 	23.4 	22.5 	3.1 	18.0
+
+Beauty salons
+	961 	91.5 	11.8 	5.7 	13.1
+
+Nail salons and other personal care services
+	377 	78.1 	3.8 	40.3 	4.2
+
+Drycleaning and laundry services
+	327 	58.5 	15.1 	18.6 	29.2
+
+Funeral homes, and cemeteries and crematories
+	106 	38.6 	10.7 	2.8 	9.7
+
+Other personal services
+	350 	64.6 	10.2 	1.8 	15.7
+
+Membership associations and organizations
+	1,800 	54.6 	10.1 	3.0 	7.6
+
+Religious organizations
+	1,025 	48.4 	9.9 	3.1 	6.8
+
+Civic, social, advocacy organizations, and grantmaking and giving services
+	579 	67.0 	11.1 	3.0 	9.2
+
+Labor unions
+	76 	37.3 	9.9 	3.1 	11.1
+
+Business, professional, political, and similar organizations
+	121 	58.8 	6.6 	2.2 	4.5
+
+Private households
+	722 	89.3 	8.4 	3.7 	35.2
+
+Public administration
+	6,853 	44.7 	15.3 	3.2 	10.1
+
+Executive offices and legislative bodies
+	884 	53.7 	13.7 	2.7 	11.5
+
+Public finance activities
+	346 	62.3 	17.6 	4.7 	6.8
+
+Other general government and support
+	138 	37.3 	13.1 	3.3 	9.0
+
+Justice, public order, and safety activities
+	2,820 	33.6 	14.3 	2.1 	10.8
+
+Administration of human resource programs
+	976 	72.4 	21.2 	3.9 	11.6
+
+Administration of environmental quality and housing programs
+	299 	41.6 	8.0 	3.6 	4.6
+
+Administration of economic programs and space research
+	594 	43.7 	13.9 	3.8 	7.1
+
+National security and international affairs
+	795 	35.2 	17.0 	5.1 	10.3
+
+n.e.c. = not elsewhere classified.
+NOTE: Estimates for the above race groups (white, black or African American, and Asian) do not sum to totals because data are not shown for all races. Persons whose ethnicity is identified as Hispanic or Latino may be of any race. Updated population controls are introduced annually with the release of January data. Dash indicates no data or data that do not meet publication criteria (values not shown where base is less than 50,000).
+
+Last Modified Date: March 1, 2012
+Recommend this page using:
+share on facebookFacebook
+Share BLS on X, formerly referred to as TwitterTwitter
+share on linkedinLinkedIn
+
+    Home
+    Subjects
+    Data Tools
+    Publications
+    Economic Releases
+    Classroom
+    Beta
+
+Help improve this site
+U.S. Bureau of Labor Statistics Logo
+
+
+U.S. Bureau of Labor Statistics
+Division of Labor Force Statistics PSB Suite 2135 2 Massachusetts Avenue NE Washington, DC 20212-0001
+Telephone: 1-202-691-6378
+www.bls.gov/CPS
+Contact CPS
+resources
+
+    Inspector General (OIG)
+    Budget and Performance
+    Department of Labor Grants
+    No Fear Act
+    USA.gov
+    Vote.gov
+
+about the site
+
+    Sitemap
+    Freedom of Information Act
+    Privacy and Security Statement
+    Disclaimers
+    Linking and Copyright Info
+    Important Website Notices
+    Help and Tutorials
+    Babel Notice: accessing language services
+    Accessibility Statement
+
+Connect With BLS
+Twitter
+Youtube
+Email

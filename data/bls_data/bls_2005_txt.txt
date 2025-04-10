@@ -1,0 +1,321 @@
+      HOUSEHOLD DATA                                                                                                       HOUSEHOLD DATA
+      ANNUAL AVERAGES                                                                                                     ANNUAL AVERAGES
+      
+      Table 18.  Employed persons by detailed industry, sex, race, and Hispanic or Latino ethnicity
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                              2005                       
+                                                                                                                                         
+                                                                                                                                         
+                                                                                        Total              Percent of total:             
+                                          Industry                                       em-                                            
+                                                                                        ployed                                             
+                                                                                         (in              Black or              Hispanic 
+                                                                                        thou-    Women    African      Asian   or Latino 
+                                                                                        sands)             American                       
+                                                                                                                                         
+                                                                                                                                         
+           Total, 16 years and over................................................... 141730    46.4       10.8        4.4       13.1   
+                                                                                                                                         
+      Agriculture, forestry, fishing, and hunting.....................................  2,197    24.7        2.3        1.0       19.3   
+              Crop production.........................................................    903    24.7        2.3        1.4       29.1   
+              Animal production.......................................................    939    25.2        1.6         .6       11.7   
+              Forestry, except logging................................................     53    32.2        2.8        1.5        4.0   
+              Logging.................................................................    106     6.2        9.7         -         3.1   
+              Fishing, hunting, and trapping..........................................     57    18.6        1.3        3.5       12.3   
+              Support activities for agriculture and forestry.........................    139    35.6        2.1         .3       27.9   
+                                                                                                                                         
+      Mining..........................................................................    624    12.8        4.9        1.3       14.0   
+              Oil and gas extraction..................................................     89    20.6        4.3        4.1       20.0   
+              Coal mining.............................................................     82     5.9        1.7         .6        1.6   
+              Nonmetallic mineral mining and quarrying................................     99     6.1        6.2         -        10.0   
+              Support activities for mining...........................................    330    14.1        5.7        1.3       17.6   
+                                                                                                                                         
+      Construction.................................................................... 11,197     9.6        5.9        1.4       23.0   
+                                                                                                                                         
+      Manufacturing................................................................... 16,253    30.0       10.0        5.1       14.2   
+          Durable goods............................................................... 10,333    26.1        8.6        5.7       12.0   
+              Nonmetallic mineral products............................................    503    20.9       10.5        2.1       16.4   
+                  Glass and glass products............................................    153    30.9       15.9        4.6       15.8   
+                  Cement, concrete, lime, and gypsum products.........................    206     9.6        9.0         .9       15.1   
+              Primary metals and fabricated metal products............................  1,926    17.3        6.6        2.5       14.4   
+                  Iron and steel mills and steel products.............................    274    15.0        9.9         .8       13.5   
+                  Aluminum production and processing..................................     76    13.0       10.1        1.2       16.6   
+                  Nonferrous metal, except aluminum, production and processing........     72    21.0        7.7        2.0       19.1   
+                  Foundries...........................................................    111    12.2        7.2        4.9       13.2   
+                  Metal forgings and stampings........................................     70    20.9        7.1        3.2        2.5   
+                  Cutlery and hand tools..............................................     57    31.5        6.1        3.8       11.0   
+                  Structural metals and tanks and shipping containers.................    425    19.3        5.2        1.8       14.7   
+                  Machine shops; turned products; screws, nuts, and bolts.............    378    12.5        2.3        4.6       14.7   
+                  Coating, engraving, heat treating and allied activities.............     92    20.3        8.4        1.5       22.3   
+              Machinery manufacturing.................................................  1,211    22.3        6.5        2.9        7.5   
+                  Agricultural implements.............................................    102    19.7        9.7        2.4        6.3   
+                  Construction, mining, and oil field machinery.......................    114    12.6        3.3        1.9        5.6   
+                  Commercial and service industry machinery...........................    134    28.8       11.3        8.0       11.8   
+                  Metalworking machinery..............................................    162    15.1        5.1        1.4        4.2   
+                  Engines, turbines, and power transmission equipment.................     60    15.2        5.0        3.0       10.2   
+              Computers and electronic products.......................................  1,501    33.7        6.9       15.7        9.2   
+                  Computer and peripheral equipment...................................    303    32.6        8.1       15.4        7.1   
+                  Communications, audio, and video equipment..........................    191    30.3        9.9        9.6        9.5   
+                  Navigational, measuring, electromedical, and control instruments....    234    36.4        7.5        8.1        7.5   
+              Electrical equipment and appliances.....................................    487    32.4        9.2        6.4       10.8   
+                  Household appliances................................................     96    35.5       15.4        2.7        8.3   
+              Transportation equipment................................................  2,297    24.1       12.8        4.9        8.1   
+                  Motor vehicles and motor vehicle equipment..........................  1,407    24.4       15.4        4.4        8.0   
+                  Aircraft and parts..................................................    354    26.2        9.1        5.5       10.8   
+                  Aerospace products and parts........................................    278    24.8        4.0        7.1        8.1   
+                  Ship and boat building..............................................    173    19.3       17.4        5.1        5.6   
+              Wood products...........................................................    542    15.6       10.6        2.1       14.6   
+                  Sawmills and wood preservation......................................    155     9.4       12.2        2.8       13.1   
+                  Veneer, plywood, and engineered wood products.......................     74    18.4       14.1        3.0       14.2   
+                  Prefabricated wood buildings and mobile homes.......................     74    11.1        4.9         .9       22.1   
+                  Miscellaneous wood products.........................................    239    20.2       10.2        1.8       13.3   
+              Furniture and fixtures..................................................    656    28.7        6.7        2.8       21.3   
+              Furniture and related product manufacturing.............................    656    28.7        6.7        2.8       21.3   
+              Miscellaneous manufacturing.............................................  1,210    41.3        7.3        7.5       16.3   
+                  Medical equipment and supplies manufacturing........................    487    45.8        7.6        9.8       12.6   
+                  Toys, amusement, and sporting goods manufacturing...................    138    41.0        6.5        9.5       19.1   
+                                                                                                                                         
+          Nondurable goods............................................................  5,919    36.9       12.5        4.1       18.1   
+              Food manufacturing......................................................  1,506    38.7       14.7        2.9       27.7   
+                  Animal food, grain, and oilseed milling.............................    126    26.9       12.8         .1        9.0   
+                  Sugar and confectionery products....................................     77    43.8       17.0         .7       18.7   
+                  Fruit and vegetable preserving and specialty foods..................    161    34.9        9.9        3.5       32.8   
+                  Dairy products......................................................    133    26.3       10.9        2.7       16.0   
+                  Animal slaughtering and processing..................................    471    37.9       17.7        2.3       39.3   
+                  Retail bakeries.....................................................    168    59.0       10.2        3.5       24.4   
+                  Bakeries, except retail.............................................    163    38.3       12.5        5.3       27.3   
+              Beverages and tobacco products..........................................    289    27.1       13.9        2.2       14.7   
+                  Beverages manufacturing.............................................    252    26.0       12.2        2.5       15.9   
+              Textiles, apparel, and leather..........................................    871    54.0       13.3        8.2       24.4   
+                  Fabric mills, except knitting.......................................    135    40.6       22.1        4.6       12.9   
+                  Carpet and rug mills................................................     73    39.1        4.6         .2       31.6   
+                  Textile product mills, except carpets and rugs......................    141    58.8       15.6        5.1       19.4   
+                  Cut and sew apparel.................................................    301    63.5        8.6       15.0       35.8   
+              Paper and printing......................................................  1,241    32.0       10.5        2.4       12.1   
+                  Pulp, paper, and paperboard mills...................................    214    17.0       12.8        1.2        8.3   
+                  Paperboard containers and boxes.....................................    164    28.5       19.0        1.6       15.1   
+                  Miscellaneous paper and pulp products...............................    118    34.6        9.9        2.2        8.8   
+                  Printing and related support activities.............................    745    36.6        8.1        3.0       13.0   
+              Petroleum and coal products.............................................    153    19.7       13.0        1.2        9.2   
+                  Petroleum refining..................................................    132    18.8       13.7         .9        9.7   
+              Chemicals...............................................................  1,208    35.0       11.6        5.7       11.2   
+                  Resins, synthetic rubber and fibers, and filaments..................    135    30.1        8.9        4.6       13.9   
+                  Pharmaceuticals and medicines.......................................    420    46.3        9.9        9.6        7.9   
+                  Paints, coatings, and adhesives.....................................     62    24.0       12.8         .2       13.2   
+                  Soaps, cleaning compounds, and cosmetics............................    141    44.7       12.5        6.3       23.6   
+              Plastics and rubber products............................................    652    31.4       10.7        3.2       14.9   
+                  Plastics product manufacturing......................................    469    33.4        9.0        3.4       17.2   
+                  Tire manufacturing..................................................     84    17.3       18.9         .5        5.2   
+                  Rubber product, except tire, manufacturing..........................     99    33.8       11.7        4.2       12.3   
+                                                                                                                                         
+      Wholesale and retail trade...................................................... 21,405    44.4        9.1        4.3       12.7   
+          Wholesale trade.............................................................  4,579    28.7        6.8        4.3       13.7   
+              Motor vehicles, parts and supplies......................................    236    20.5        7.9        3.9       14.6   
+              Furniture and home furnishings..........................................    102    46.9        8.5        5.6       16.8   
+              Lumber and other construction materials.................................    252    17.0        7.7        1.4       14.3   
+              Professional and commercial equipment and supplies......................    435    32.0        6.7        6.1        9.8   
+              Metals and minerals, except petroleum...................................     77    20.0         .3         .9       14.5   
+              Electrical goods........................................................    335    28.1        6.4        5.0       10.7   
+              Hardware, plumbing and heating equipment, and supplies..................    187    25.1        2.8        1.0        7.9   
+              Machinery, equipment, and supplies......................................    523    23.7        4.3        2.8        8.8   
+              Recyclable materials....................................................    103    16.1        5.5         -        19.4   
+              Miscellaneous durable goods.............................................    182    37.1        4.5        6.4       13.5   
+              Paper and paper products................................................    103    32.7        6.4        2.8       14.7   
+              Drugs, sundries, and chemical and allied products.......................    296    42.5        8.0        6.2        6.7   
+              Apparel, fabrics, and notions...........................................    114    52.8       10.7       10.3       22.7   
+              Groceries and related products..........................................    887    26.4        9.8        3.1       21.1   
+              Farm product raw materials..............................................     57    25.4         -          -         7.3   
+              Petroleum and petroleum products........................................    141    24.2        7.3        1.8        5.2   
+              Alcoholic beverages.....................................................    150    12.0        6.7        4.1       15.4   
+              Farm supplies...........................................................     54    17.5         .7        3.3        6.6   
+              Miscellaneous nondurable goods..........................................    240    42.5        7.5        6.2       18.1   
+              Wholesale electronic markets, agents and brokers........................     68    41.0        1.4       17.7       17.0   
+                                                                                                                                         
+          Retail trade................................................................ 16,825    48.7        9.8        4.3       12.4   
+              Automobile dealers......................................................  1,337    19.8        6.8        2.0       11.5   
+              Other motor vehicle dealers.............................................    191    23.3         .4         .5        6.5   
+              Auto parts, accessories, and tire stores................................    526    15.1        6.9        1.9       14.5   
+              Furniture and home furnishings stores...................................    715    42.4        9.9        2.9       13.7   
+              Household appliance stores..............................................     83    34.4        7.9        2.2       11.0   
+              Radio, TV, and computer stores..........................................    652    30.1       11.1        7.6        8.7   
+              Building material and supplies dealers..................................  1,088    28.5        7.3        1.6       11.6   
+              Hardware stores.........................................................    232    35.7        6.4        3.3        6.2   
+              Lawn and garden equipment and supplies stores...........................    268    31.9        1.7         .2       10.4   
+              Grocery stores..........................................................  2,670    50.8       10.3        5.4       14.2   
+              Specialty food stores...................................................    278    45.4        7.0        5.8       24.4   
+              Beer, wine, and liquor stores...........................................    122    44.3        7.3        8.0        8.6   
+              Pharmacies and drug stores..............................................    834    63.1       10.6        5.5       10.6   
+              Health and personal care, except drug, stores...........................    267    69.5        7.4        8.9       11.3   
+              Gasoline stations.......................................................    520    47.8       11.6        7.3        9.0   
+              Clothing and accessories, except shoe, stores...........................    890    73.7       14.0        5.6       14.4   
+              Shoe stores.............................................................    144    61.5       18.3        4.3       20.2   
+              Jewelry, luggage, and leather goods stores..............................    223    67.4        3.6       12.1       16.0   
+              Sporting goods, camera, and hobby and toy stores........................    456    41.7        5.1        2.9        8.5   
+              Sewing, needlework, and piece goods stores..............................     68    87.1        5.4        1.2       13.9   
+              Music stores............................................................    138    36.1       11.5        5.8       14.0   
+              Book stores and news dealers............................................    202    58.5        8.7        5.6        4.2   
+              Department stores and discount stores...................................  2,434    63.5       14.7        3.1       12.4   
+              Miscellaneous general merchandise stores................................    443    61.3       16.0        5.8       16.5   
+              Retail florists.........................................................    167    72.6        2.0        4.8       15.4   
+              Office supplies and stationery stores...................................    202    44.4       11.5        4.2       16.4   
+              Used merchandise stores.................................................    210    64.3        7.8        3.1       14.4   
+              Gift, novelty, and souvenir shops.......................................    249    73.4        3.3        5.5        7.4   
+              Miscellaneous retail stores.............................................    418    50.2        5.1        4.7       12.1   
+              Electronic shopping.....................................................     83    48.7        8.7        4.5        7.5   
+              Mail order houses.......................................................     78    69.8       18.2        1.1        9.4   
+              Vending machine operators...............................................     64    22.7        4.0        1.8        4.6   
+              Fuel dealers............................................................     84    23.8        6.0         -         4.3   
+                                                                                                                                         
+      Transportation and utilities....................................................  7,360    23.5       15.6        3.6       12.6   
+          Transportation and warehousing..............................................  6,184    23.9       16.7        4.0       13.7   
+              Air transportation......................................................    574    36.2       11.1        5.9        9.6   
+              Rail transportation.....................................................    282     9.7       13.9        1.8        7.1   
+              Water transportation....................................................     61    28.0       11.7        3.8       10.4   
+              Truck transportation....................................................  2,033    11.5       13.5        1.3       14.7   
+              Bus service and urban transit...........................................    555    40.5       26.8        2.8       14.8   
+              Taxi and limousine service..............................................    218    17.1       32.4       12.6       16.7   
+              Services incidental to transportation...................................    619    26.2       13.6        5.1       14.0   
+              Postal Service..........................................................    828    39.2       20.3        8.4       10.2   
+              Couriers and messengers.................................................    647    20.5       18.5        3.4       14.5   
+              Warehousing and storage.................................................    306    30.2       18.2        3.7       24.7   
+                                                                                                                                         
+          Utilities...................................................................  1,176    21.3        9.7        1.5        7.4   
+              Electric power generation, transmission, and distribution...............    604    22.9        9.5        1.5        4.9   
+              Natural gas distribution................................................    120    17.1       11.8         .6       11.1   
+              Electric and gas, and other combinations................................     86    29.2        9.8        1.3       10.8   
+              Water, steam, air-conditioning, and irrigation systems..................    243    19.8        7.2        1.6        9.1   
+              Sewage treatment facilities.............................................    109    14.1       12.1        2.5       10.4   
+                                                                                                                                         
+      Information.....................................................................  3,402    44.2       11.3        4.8        9.1   
+              Newspaper publishers....................................................    508    48.8        9.3        2.5        9.0   
+              Publishing, except newspapers and software..............................    302    51.7        7.5        4.7        5.9   
+              Motion pictures and video industries....................................    323    38.6        5.6        4.3        9.9   
+              Radio and television broadcasting and cable.............................    563    39.0       11.3        3.0       11.8   
+              Wired telecommunications carriers.......................................    794    36.6       15.3        5.7        9.2   
+              Internet service providers..............................................     80    31.7        4.8        6.9        5.9   
+              Data processing, hosting, and related services..........................    103    47.8        8.1        5.2       10.9   
+              Libraries and archives..................................................    235    79.4       11.4        3.0        8.0   
+                                                                                                                                         
+      Financial activities............................................................ 10,203    55.3        9.8        4.8        9.7   
+          Finance and insurance.......................................................  7,035    58.5       10.3        5.5        8.2   
+              Banking and related activities..........................................  1,912    67.3       12.0        6.7        8.6   
+              Savings institutions, including credit unions...........................    270    74.1        6.0        3.9        8.2   
+              Non-depository credit and related activities............................  1,195    55.4       12.2        5.8       12.3   
+              Securities, commodities, funds, trusts, and other financial                                                                
+               investments............................................................  1,146    38.1        6.1        7.1        5.1   
+              Insurance carriers and related activities...............................  2,512    60.9       10.3        3.9        7.3   
+                                                                                                                                         
+          Real estate and rental and leasing..........................................  3,168    48.1        8.8        3.3       13.2   
+              Real estate.............................................................  2,678    50.8        8.5        3.5       13.1   
+              Rental and leasing services.............................................    490    33.5       10.2        2.3       13.6   
+                  Automotive equipment rental and leasing.............................    173    30.6       13.7        3.4       14.2   
+                  Video tape and disk rental..........................................    109    50.8        9.6        3.6        9.1   
+                  Other consumer goods rental.........................................    103    32.9       12.9        1.6       19.6   
+                  Commercial, industrial, and other intangible assets rental and                                                         
+                   leasing............................................................    104    20.5        2.4         -        11.3   
+                                                                                                                                         
+      Professional and business services.............................................. 14,294    42.9        9.4        5.6       12.5   
+          Professional and technical services.........................................  8,584    44.5        5.9        7.4        6.1   
+              Legal services..........................................................  1,658    57.9        6.8        2.7        8.2   
+              Accounting, tax preparation, bookkeeping, and payroll services..........    884    62.7        7.0        6.1        6.6   
+              Architectural, engineering, and related services........................  1,468    25.8        4.9        7.4        5.1   
+              Specialized design services.............................................    357    58.7        3.9        7.8        4.4   
+              Computer systems design and related services............................  1,632    26.6        6.1       15.9        4.3   
+              Management, scientific, and technical consulting services...............  1,009    42.6        6.3        4.6        5.0   
+              Scientific research and development services............................    493    45.4        4.8       11.7        5.8   
+              Advertising and related services........................................    511    52.2        7.1        3.6        7.4   
+              Veterinary services.....................................................    251    76.1        1.8         .8        4.9   
+              Other professional, scientific, and technical services..................    321    53.0        6.8        4.0       11.4   
+          Management, administrative, and waste services..............................  5,709    40.5       14.5        2.9       22.3   
+              Management of companies and enterprises.................................     63    49.6        7.9        2.1       12.3   
+              Employment services.....................................................  1,015    57.4       20.3        4.3       16.4   
+              Business support services...............................................    739    65.1       16.9        2.7       11.4   
+              Travel arrangement and reservation services.............................    259    67.1        9.4        8.9       10.5   
+              Investigation and security services.....................................    682    25.0       24.2        3.6       10.5   
+              Services to buildings and dwellings.....................................  1,161    48.6       12.6        2.2       32.3   
+              Landscaping services....................................................  1,133    10.4        6.1        1.2       37.5   
+              Other administrative and other support services.........................    252    49.9       10.1        4.4       16.2   
+              Waste management and remediation services...............................    407    16.5       15.2         .7       18.3   
+                                                                                                                                         
+      Education and health services................................................... 29,174    75.0       13.9        4.5        9.0   
+          Educational services........................................................ 12,264    69.0       11.0        3.6        8.2   
+              Elementary and secondary schools........................................  8,359    75.6       11.7        1.9        9.0   
+              Colleges and universities, including junior colleges....................  3,263    53.1       10.2        7.6        6.4   
+              Business, technical, and trade schools and training.....................    108    51.4        8.8        5.0        8.4   
+              Other schools, instruction, and educational services....................    534    66.1        5.7        5.9        5.6   
+                                                                                                                                         
+          Health care and social assistance........................................... 16,910    79.3       16.1        5.2        9.6   
+              Hospitals...............................................................  5,719    76.5       15.7        6.8        7.5   
+              Health services, except hospitals.......................................  8,332    79.0       15.4        4.7        9.6   
+                  Offices of physicians...............................................  1,801    76.8        7.2        5.1        9.2   
+                  Offices of dentists.................................................    792    80.3        3.8        5.8        9.8   
+                  Offices of chiropractors............................................    163    58.1        4.9        3.5        7.8   
+                  Offices of optometrists.............................................     98    72.3        1.8       11.7        7.5   
+                  Offices of other health practitioners...............................    275    70.9        6.3        2.7        7.1   
+                  Outpatient care centers.............................................    901    77.7       14.4        5.0        7.9   
+                  Home health care services...........................................    795    89.8       25.3        4.3       18.1   
+                  Other health care services..........................................  1,045    70.2       15.4        5.5        8.6   
+                  Nursing care facilities.............................................  1,848    86.7       25.1        4.1        8.2   
+                  Residential care facilities, without nursing........................    615    73.7       22.8        3.4        9.2   
+              Social assistance.......................................................  2,860    85.9       18.8        3.1       14.0   
+                  Individual and family services......................................    994    77.5       18.8        4.4       13.2   
+                  Community food and housing, and emergency services..................     74    64.0       29.8        1.8       18.1   
+                  Vocational rehabilitation services..................................    221    60.4       17.5        1.7        7.3   
+                  Child day care services.............................................  1,571    95.8       18.4        2.5       15.3   
+                                                                                                                                         
+      Leisure and hospitality......................................................... 12,071    51.4       10.7        5.8       18.3   
+          Arts, entertainment, and recreation.........................................  2,765    45.2        8.2        3.5       10.2   
+              Independent artists, performing arts, spectator sports, and related                                                        
+               industries.............................................................    796    42.6        8.5        2.4        8.3   
+              Museums, art galleries, historical sites, and similar institutions......    392    41.5       10.6        1.3        8.6   
+              Bowling centers.........................................................     55    39.3         .2         .3        4.6   
+              Other amusement, gambling, and recreation industries....................  1,523    47.7        7.7        4.7       11.8   
+          Accommodation and food services.............................................  9,306    53.3       11.4        6.5       20.7   
+              Accommodation...........................................................  1,552    57.0       15.2        7.9       22.5   
+                  Traveler accommodation..............................................  1,448    57.6       15.8        8.2       23.7   
+                  Recreational vehicle parks and camps, and rooming and boarding                                                         
+            houses....................................................................    104    49.1        7.6        3.3        5.6   
+              Food services and drinking places.......................................  7,754    52.5       10.7        6.2       20.3   
+                  Restaurants and other food services.................................  7,514    52.3       10.9        6.4       20.6   
+                  Drinking places, alcoholic beverages................................    240    58.2        4.9        1.1       12.1   
+                                                                                                                                         
+      Other services..................................................................  7,020    51.5       10.2        5.2       15.5   
+          Other services, except private households...................................  6,208    46.2       10.1        5.5       13.1   
+              Repair and maintenance..................................................  2,160    12.7        6.0        3.8       18.8   
+                  Automotive repair and maintenance...................................  1,252    10.2        6.0        3.7       19.1   
+                  Car washes..........................................................    155    16.3       12.8        1.3       35.4   
+                  Electronic and precision equipment repair and maintenance...........    172    15.2        7.8        5.8       11.9   
+                  Commercial and industrial machinery and equipment repair and                                                           
+                   maintenance........................................................    327     9.4        3.8        2.5       18.5   
+                  Personal and household goods repair and maintenance.................    244    26.2        4.0        6.1       12.0   
+              Personal and laundry services...........................................  2,116    72.1       12.7        9.6       11.7   
+                  Barber shops........................................................    115    22.9       31.5        4.5       13.9   
+                  Beauty salons.......................................................    914    90.7       10.1        5.7       10.4   
+                  Nail salons and other personal care services........................    334    75.9        5.7       28.2        3.0   
+                  Drycleaning and laundry services....................................    323    60.6       19.7       11.9       24.5   
+                  Funeral homes, cemeteries, and crematories..........................    151    36.4       13.5        1.1        7.3   
+                  Other personal services.............................................    279    59.4       13.5        4.4       13.2   
+              Membership associations and organizations...............................  1,932    55.3       11.8        2.8        8.2   
+                  Religious organizations.............................................  1,066    48.0       10.7        2.8        7.6   
+                  Civic, social, advocacy organizations, and grantmaking                                                       
+                   and giving services................................................    624    66.9       15.0        3.2        9.5   
+                  Labor unions........................................................     69    39.9       14.5        1.6       10.7   
+                  Business, professional, political, and similar organizations........    173    64.6        5.7        1.9        5.5   
+          Private households..........................................................    812    91.7       11.3        2.8       33.9   
+      Public administration...........................................................  6,530    45.5       15.9        3.3        8.7   
+              Executive offices and legislative bodies................................    889    55.9       17.3        4.1        7.6   
+              Public finance activities...............................................    364    63.8       16.2        5.4        7.6   
+              Other general government and support....................................     91    41.3       12.4        4.1        5.3   
+              Justice, public order, and safety activities............................  2,710    34.7       15.1        1.6        9.2   
+              Administration of human resource programs...............................    874    72.1       20.4        3.6        8.2   
+              Administration of environmental quality and housing programs............    338    40.8        8.4        4.9        7.7   
+              Administration of economic programs and space research..................    540    42.1       14.6        4.2        8.9   
+              National security and international affairs.............................    725    37.2       16.4        5.7        9.9   
+
+        NOTE:  Generally, data for industries with fewer than 50,000 employed as well as for certain other industries are not published
+      separately but are included in the totals for the appropriate categories shown.  Dash represents or rounds to zero.  Beginning in
+      January 2005, data reflect revised population controls used in the household survey.
+
+ 
+	
